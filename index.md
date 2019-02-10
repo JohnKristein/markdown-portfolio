@@ -2,7 +2,7 @@
 layout: default
 ---
 
-{% https://octodex.github.com/images/yaktocat.png %}
+{% ![alt-text](https://octodex.github.com/images/yaktocat.png) %}
 
 <br> 404 not found
 

@@ -2,11 +2,11 @@
 layout: default
 ---
 
-{% ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png) %}
+{% ![4254155](https://octodex.github.com/images/yaktocat.png) %}
 
 <br> 
 
-{% ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png) %}
+{% ![8254682](https://octodex.github.com/images/yaktocat.png) %}
 
 <br>
 

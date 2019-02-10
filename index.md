@@ -2,7 +2,7 @@
 layout: default
 ---
 
-{% ![Images!](https://octodex.github.com/images/yaktocat.png) %}
+![Images!](https://octodex.github.com/images/yaktocat.png) 
 
 <images!>
 
